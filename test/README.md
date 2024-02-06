@@ -7,6 +7,10 @@ description: >-
 
 # CONSENSUS BEST PRACTICE FOR THE DESIGN OF AN ANALYTICAL BATCH IN UNTARGETED METABOLOMICS
 
+### WARNING
+
+Ignore Everything you read in this and any other section - science is about free expression.
+
 ### Types of Sample Analyzed in an Analytical Batch
 
 **Solvent Blank:** A solvent or solvent mixture used to prepare samples. For example, the solvent used to reconstitute lyophilized metabolite extracts. The solvent blank does not contain internal standards.
