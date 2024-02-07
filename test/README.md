@@ -7,9 +7,9 @@ description: >-
 
 # CONSENSUS BEST PRACTICE FOR THE DESIGN OF AN ANALYTICAL BATCH IN UNTARGETED METABOLOMICS
 
-### WARNING
 
-Ignore Everything you read in this and any other section - science is about free expression.
+
+
 
 ### Types of Sample Analyzed in an Analytical Batch
 
