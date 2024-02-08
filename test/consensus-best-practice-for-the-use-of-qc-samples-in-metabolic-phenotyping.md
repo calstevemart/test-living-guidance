@@ -12,7 +12,7 @@ Quality control (QC) samples provide an essential element of assuring data quali
 
 ### Pooled Quality Control Samples &#x20;
 
-Current practice in metabolomics/metabonomics is to prepare matrix-based QC’s that a representative of the sample type being analysed. Common practice is to use some form of “pooled” matrix, generally comprised of mixtures of aliquots of the samples under study but, where this is impractical, bulk matrix samples of the matrix obtained from other sources may be employed. The various types of QC sample currently employed are described below. &#x20;
+Current practice in metabolomics/metabonomics is to prepare matrix-based QC’s that a representative of the sample type being analysed. Common practice is to use some form of 'pooled' matrix, generally comprised of mixtures of aliquots of the samples under study but, where this is impractical, bulk matrix samples of the matrix obtained from other sources may be employed. The various types of QC sample currently employed are described below. &#x20;
 
 ### Types of pooled QC&#x20;
 
