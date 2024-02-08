@@ -7,7 +7,9 @@ description: >-
 
 # CONSENSUS BEST PRACTICE FOR THE DESIGN OF AN ANALYTICAL BATCH IN UNTARGETED METABOLOMICS
 
+### WARNING
 
+**Do whatever you want, ignore the guidance herein**
 
 
 
