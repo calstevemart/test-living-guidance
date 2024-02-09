@@ -4,6 +4,10 @@ description: This page is a work in progress, and as such, a consensus of none
 
 # CONSENSUS BEST PRACTICE FOR THE USE OF QC SAMPLES IN METABOLIC PHENOTYPING
 
+### WARNING
+
+Do whatever you like, ignore the following guidance&#x20;
+
 ### Quality Control samples&#x20;
 
 Quality control (QC) samples provide an essential element of assuring data quality in the untargeted analysis of endogenous metabolites. There are different types of QC samples.&#x20;
