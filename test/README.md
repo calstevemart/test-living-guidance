@@ -84,17 +84,47 @@ The order of sample injections should be part of every general experimental desi
 
 Some samples may allow applying corrections or filters during data processing.&#x20;
 
-Some samples may allow intra-/inter-laboratory comparisons.&#x20;
+Some samples may allow intra-/inter-laboratory comparisons. &#x20;
 
-&#x20;
 
-### Examples of best practice &#x20;
 
-Reporting (as part of the supporting information content of a manuscript) the analytical batch design&#x20;
+### Best Practices
 
-Report the purpose of injecting each sample type along the analytical batch.&#x20;
+1\.     Analyze study samples in randomized order bracketed by pooled/intra-study QC samples.
 
-Data should be submitted to public repositories.&#x20;
+2\.     Equilibrate the LC-MS system with a system conditioning sample (pooled QC or sample with same matrix as study samples) to achieve a running homeostasis of the system prior to injection of the first experimental samples.
+
+3\.     Include appropriate blanks, including solvent for detection of contaminants (LC-MS solvents) and carry-over and process blanks for detection of contaminants introduced during sample preparation and sample collection.
+
+4\.     Evaluate the effect of injecting blanks between study samples during method development as such injections may affect conditioning of the system.
+
+5\.     For large-scale studies, use long-term (LTR) QC to evaluate inter-batch reproducibility.
+
+6\.     Use blanks at the beginning (assure that instrument is clean),  and at the end (detect carry-over and contaminants) of the batch.
+
+7\.     Determine reasonable batch size during method development (e.g., loss of signal intensity < 20%).
+
+8\.     Include LTR QC sample(s) to allow data quality comparisons across different studies within a laboratory and across different laboratories.
+
+9\.     Use sample randomization with class-balanced blocking when possible and/or relevant for a given study design.
+
+
+
+### Minimum Practices
+
+1\.     Analyze study samples in randomized order bracketed by pooled/intra-study QC samples.
+
+2\.     Equilibrate the LC-MS system with a system conditioning sample (pooled QC or sample with same matrix as study samples) to achieve a running homeostasis of the system prior to injection of the first experimental samples.
+
+3\.     Include appropriate blanks, including solvent for detection of contaminants (LC-MS solvents) and carry-over and process blanks for detection of contaminants introduced during sample preparation and sample collection.
+
+4\.     Evaluate the effect of injecting blanks between study samples during method development as such injections may affect conditioning of the system.
+
+5\.     For large-scale studies, use long-term (LTR) QC to evaluate inter-batch reproducibility.
+
+
+
+***
 
 ### References
 
