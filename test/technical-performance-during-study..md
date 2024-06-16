@@ -21,16 +21,6 @@
 
 
 
-2\.     Use data from QC samples to accept/reject an analytical batch using pre-defined acceptance criteria.
-
-3\.     Use dilution series of pooled QC samples to evaluate the relationship between signal intensity and concentration. If used for evaluation of linearity, also pre-concentrate pooled QC samples.
-
-4\.     Where feasible, perform long-term monitoring of QC data using laboratory information system (LIMS) and/or logbooks. This can serve as a helpful failure forecasting tool.
-
-5\.     Phenotypic QC samples are useful to highlight differences in precision in case-control samples and to evaluate the performance of low-concentration analytes.
-
-6\.     Use data from QC samples to monitor and, if needed, improve data quality (e.g. correction of within- and between-batch effects), to filter features by detection rate, repeatability, and/or  linearity.
-
 
 
 ## Minimum Practices
