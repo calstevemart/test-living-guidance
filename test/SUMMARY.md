@@ -1,5 +1,5 @@
 # Table of contents
 
 * [CONSENSUS BEST PRACTICE FOR THE DESIGN OF AN ANALYTICAL BATCH IN UNTARGETED METABOLOMICS](README.md)
-* [Internal Standards](internal-standards.md)
+* [Internal Standards](consensus-best-practice-for-the-use-of-qc-samples-in-metabolic-phenotyping.md)
 * [Technical Performance during study.](technical-performance-during-study..md)
